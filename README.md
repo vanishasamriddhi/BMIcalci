@@ -3,7 +3,7 @@
 A flutter app for calculating BMI based on [Oliver Gomes's beautiful BMI Calculator Design](https://www.behance.net/gallery/75656331/BMI-Calculator-App)
 
 
-![Finished App]()
+![Finished App](https://github.com/vanishasamriddhi/BMIcalci/blob/master/bmi-calculator.gif)
 
 
 
